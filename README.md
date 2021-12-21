@@ -20,6 +20,6 @@ Hello, I am Nitish Vibhav. I am a beginner in web development. This is my first 
 
 ![skills Page](https://user-images.githubusercontent.com/61507132/146967107-eb0eedcb-d7a3-4501-afe9-dbecbf409716.PNG)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![education and experience page](https://user-images.githubusercontent.com/61507132/146968694-9275fa15-830c-4776-9454-40426dbd2a73.PNG)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![contactScreenshot](https://user-images.githubusercontent.com/61507132/146968433-0483503a-e8d5-44ad-89ce-2f90b4e9c9c2.PNG)
