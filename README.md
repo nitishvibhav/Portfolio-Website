@@ -13,7 +13,7 @@ If you are a beginner in front-end development then this is very useful and very
 Hello, I am Nitish Vibhav. I am a beginner in web development. This is my first website, So hope you will enjoy my work.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home page](https://user-images.githubusercontent.com/61507132/146965217-1a710dce-2a8a-4e6f-8c19-50dab01c3b03.PNG)
 
 
 
